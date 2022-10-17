@@ -6,3 +6,14 @@ Green: #00B172
 White: #FFF
 
 */
+
+.spotify {
+    height: 75vh;
+    background-image: url(../images/landing.jpg);
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+
+}
